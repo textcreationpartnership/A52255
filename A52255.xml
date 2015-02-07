@@ -508,9 +508,10 @@ night to all Southern inhabitants, and is noted with G ♋.</item>
 either in right or oblique angles) there is a threefold position or Situation of Spheres.</p>
             <p>The first is of those that have either Pole for there Zenith or vertical point, with these the Aequator and Horizon are Parallel to each other, or rather indeed do make but one cir<g ref="char:EOLhyphen"/>cle between them; and this is called a Parallel Sphere, and they which there inhabit (if any such be) see not the Sun or other Star either rising or setting, or higher or lower, in their diurnal revolution.</p>
             <figure/>
-            <figure>
-               <pb n="5" facs="tcp:60115:9"/>
-            </figure>
+            <p>Besides seeing that the Sun traverseth the whole Zodiack, in a Year, and that half the Zodiack is above the Horizon, and half under it, it comes to pass, that the Sun setteth not with them for the space of six moneths, nor giveth them any light, for the space of other six moneths, and so maketh but one artificial day and night of the whole Year. The second position of the Sphere is of those whose Zenith is in the Aequator, and this is called a right Sphere, in which
+<figure>
+                  <pb n="5" facs="tcp:60115:9"/>
+               </figure> all the Stars are observed to rise and set in an equal space of time, and to continue as long above the Horizon, as they do under it, as by the figure it doth appear, the day and night be<g ref="char:EOLhyphen"/>ing alwayes of an equal length.</p>
             <p>The third position of the Sphere agreeth to all other pla<g ref="char:EOLhyphen"/>ces else, and is called an oblique Sphere, in which the dayes are sometimes longer then the nights, sometimes shorter, and sometimes of equal length: when the Sun is placed in the E<g ref="char:EOLhyphen"/>quinoctial point, the dayes and nights are equal, but when he declineth from the Aequator, the dayes are observed to in<g ref="char:EOLhyphen"/>crease, and when he declineth towards the opposite Pole the dayes decrease, as it is manifest in the first figure.</p>
             <p>And thus having briefly shewed, what a Globe is, the lines thereon described, with the several affections belonging thereunto, what remayneth but that we now proceed to pra<g ref="char:EOLhyphen"/>ctice, &amp; shew there use as to the matter in hand; wch is to find
 <pb n="4" facs="tcp:60115:10"/>
@@ -1284,7 +1285,9 @@ when the Declination is South the arch found must be subtracted from it, and the
                   <div n="10" type="chapter">
                      <head>
                         <hi>CHAP. 10.</hi> How to finde the Ascensionall Difference.</head>
-                     <figure/>
+                     <p>THe Ascensional Difference, is nothing else but the difference be<g ref="char:EOLhyphen"/>tweene the ascension of any point of the ecliptique in a Right Sphere, and the Ascension of the same point in an oblique Sphaere, as in the annexed Diagram, Let A G E V represent the<figure/>
+                        <pb n="21" facs="tcp:60115:18"/>
+Meridian, E M T the Horizon, G D M C V the Aequator, D B part of the Zodiac, A the Pole thereof, D the beginning of <hi>Aries,</hi> V T the com<g ref="char:EOLhyphen"/>plement of the Poles elevation, B C the Suns Declination, D C the Right ascension, M C the ascensional Difference.</p>
                      <p>Then in the Right angled sphaericall Triangle B M C we have limited. 1. The angle C M B the complement of the Pole 38. 46667. Secondly, the side B C 19 deg. the Suns Declination, hence to finde, the ascension<g ref="char:EOLhyphen"/>al difference M C the Analogie is.</p>
                      <p>As the Cotangent of the poles Elevation, is to Radius. So is the tangent of the planets Declination, to the sine of the ascensionall difference.</p>
                      <p>
@@ -1394,7 +1397,10 @@ when the Declination is South the arch found must be subtracted from it, and the
                      </p>
                      <p>whose complement 32. 59649 is the side L H or altitude sought.</p>
                      <p>The second varietie is when the Sun is in the Northerne signes <hi>Aries, Taurus, Gemini, Cancer, Leo, Virgo.</hi> For the solving of the Probleme in this varietie, let A E C represent the Aequinoctiall. F the pole thereof, L E R the Horizon, G the pole thereof. B D a parallel of the <hi>Suns</hi> decli<g ref="char:EOLhyphen"/>nation. F O the Meridian of the <hi>Sun.</hi> B H the distance of the <hi>Sun</hi> from the Meridian. H O the <hi>Suns declination</hi> North, R F the poles elevation, F G the complement.</p>
-                     <figure/>
+                     <p>Admit the Sun at H be distant from the Meridian B 45 degrees, and in ten degrees of <hi>Gemini,</hi> where his declination O H is 23. 02910. which
+<figure/>
+                        <pb n="24" facs="tcp:60115:20"/>
+being taken out of the Quadrant F O 90. there remains F H. 67. 97090. which known in the Triangle F G H, we have given these three parts.</p>
                      <p>First, the side F G 38. 46667. Secondly, the side F H. 67. 97090. and the included angle F G H. 45 degrees to find G H.</p>
                      <figure/>
                      <p>
@@ -1650,7 +1656,10 @@ when the Declination is South the arch found must be subtracted from it, and the
                         <hi>CHAP. 16.</hi> How to erect a Figure of Heaven.</head>
                      <p>AMong the severall wayes for the erecting of a figure, used by the ancient Astronomers, that is held most rationall which divideth the Equinoctiall into twelve parts by circles meeting at the inter<g ref="char:EOLhyphen"/>sections of the Meridian and Horizon, which is according to the following Scheame, in which the line W Z E represents the East and West Azimuth W ♈ E is that halfe of the Equinoctiall above the eareh, and W ♎ E is that half of the Equator under the earth. The arch 7 ♈ 1, doth represent that halfe of the ecliptick above the earth.</p>
                      <p>And 7 ♎ 1 that part under the earth. The utmost circle N E S W re<g ref="char:EOLhyphen"/>presents the Horizon, N Z S the meridian, N the north, and S the South end thereof. The Eqninoctiall circle W ♈ E ♎ is divided in to 12 equall parts, by which divisions passe arches, from the North and South inter<g ref="char:EOLhyphen"/>sections of the meridian with the Horizon, which cut the Ecliptique at the cuspe of the houses, N 1 S is the cuspe of the Ascendant, N 7 S of the 7 house N 2. 12 S of the second and twelfth, N 3. 11 S of the third and e<g ref="char:EOLhyphen"/>leventh, and so of the rest as you see in the Figure.</p>
-                     <figure/>
+                     <p>
+                        <pb n="28" facs="tcp:60115:22"/>
+                        <figure/>
+                     </p>
                      <div type="part">
                         <head>To find the Mid-heaven or Tenth House.</head>
                         <p>When you would erect a figure you must have the true place and Right Ascension of the Sun for the time proposed, let the given time in the me<g ref="char:EOLhyphen"/>ridian of <hi>London</hi> where the North pole is elevated above the Horizon 51. 53333 be <hi>July</hi> the 16. After noon 18 hours, 4564 in the yeare 1587. For which time according to our Tables the Suns place is in <hi>Vir<g ref="char:EOLhyphen"/>go</hi> 4. 07368 which known the Midheaven or 10 house may thus be found.</p>
@@ -2396,9 +2405,12 @@ gives the point of the Ecliptique in <hi>Cancer</hi> 24. 999</p>
                                     <desc>••••</desc>
                                  </gap>47909<g ref="char:punc">▪</g> is the Cuspe desired.</p>
                               <p>The Cuspe of your houses being thus found, draw your figure after this manner, and then place the Signes and Degrees on the Cuspes of their proper houses, beginning with the 10 house.</p>
-                              <figure>
-                                 <head>A Figure of the 12 Houses of Heaven.</head>
-                              </figure>
+                              <p>
+                                 <pb n="35" facs="tcp:60115:25"/>
+                                 <figure>
+                                    <head>A Figure of the 12 Houses of Heaven.</head>
+                                 </figure>
+                              </p>
                               <p>
                                  <table>
                                     <row>
@@ -2534,7 +2546,9 @@ in the Mid-heaven, the declination thereof by the 2 Chapter is 22. 02910. which 
                      <p>THe angle of the Ecliptique with the verticall circle, is an angle made by the oblique cutting of the circle of altitude, with the E<g ref="char:EOLhyphen"/>cliptique, which is a right angle, when the said circle passeth through the 90 degree of the Ecliptique, but falling without the same it is oblique; as in the following figure, D denotes the Zenith, D C B the verticall circle, D E H V T the Meridian, T A B H the Ho<g ref="char:EOLhyphen"/>rizon, V A E the Ecliptique, C the angle of the intersection of the E<g ref="char:EOLhyphen"/>cliptique with the Vertical.</p>
                      <p>
                         <pb n="38" facs="tcp:60115:27"/>In the 16 Chapter is shewed how to find the point of the Ecliptique Ascending, and the Suns altitude at any time in the 12 Chapter, which being obtained we may speedily find the parallactical angle.</p>
-                     <figure/>
+                     <p>Admit the Sun at C be in ♍ 4. 07368 distant from the Meridian hours 5. 5436 or 83. 1540. <hi>Ad ortum.</hi> His Declination will be found by the 2 Chapter to be 10. 05037, and his altitude by the 12 Chapter 12. 10189. The point Ascending by the 16 Chapter is ♍ 17. 90610,
+<figure/>
+which known, in the triangle A B C we have. 1. A C 13. 90610. Se<g ref="char:EOLhyphen"/>condly, B C 12. 10189, to find the angle A C B. I say then,</p>
                      <p>
                         <table>
                            <row>
@@ -3782,16 +3796,23 @@ of the world, and the line of the apparent motion, must containe those circles i
                         <hi>How two equal right lines may be so drawn in an unequal sided Tri<g ref="char:EOLhyphen"/>angle, as that the one shall bisect the other.</hi>
                      </p>
                      <p>An unequal sided Cone being cut through the Axis by a plaine perpen<g ref="char:EOLhyphen"/>dicular to the plain of the base, shall make an unequal sided Triangle, and let A B C be such a Triangle, whose base B C let be bisected in I, and parallel therunto draw the line P S, which being within the triangle shall be also bisected in the point R, and from a point taken in this line at pleasure, suppose at H, to the Axis of the Cone A I, draw the line H M so, as that the angles H M R and M R H may be equal; then shall H M and H R be equal also, and let the line H M being continued to the sides of the Tri<g ref="char:EOLhyphen"/>angle A B and A C be bisected in the point X, and by the point of bi<g ref="char:EOLhyphen"/>section at X, draw the line V X T parallel to the base B C, then are the right lines E K and V T equal, and E K is bisected by V T in the point X.</p>
-                     <figure>
-                        <pb n="69" facs="tcp:60115:42"/>
-                     </figure>
+                     <p>From the points E V K draw the lines V F, K Q, E D parallel to A I, so shall the segments P R and R S, V Z and Z T be equal, because the right line A I bisects the base B C: and the lines E K and V T being con<g ref="char:EOLhyphen"/>tinued to F and Q, the lines F K and V Q shall be contained between the parallels F V and K Q, and because the lines E K and D Q are contain<g ref="char:EOLhyphen"/>ed between the parallels D E and K Q, and that E X and X K are equal, the triangles E X D and Q K X shall be like and the sides proportionall, that is E X to X D so is X K to X Q. And so is D E to Q K but E X
+<figure>
+                           <pb n="69" facs="tcp:60115:42"/>
+                        </figure>
+and X K are equal by construction, and therefore X D and X K are e<g ref="char:EOLhyphen"/>qual, and so are D E &amp; K Q and the perpendiculars Kδ, and Eφ shall be equal also. And because H M is equal to H R, &amp; H R, parallel to Z X, there<g ref="char:EOLhyphen"/>fore as H R, to H M, so is Z X to X M, because E D is parallel to Z M, ther<g ref="char:EOLhyphen"/>fore X M to X E, so is X Z to X D, but X M &amp; X Z are equal, &amp; there<g ref="char:EOLhyphen"/>fore X E and X D are equal, and the double of them E K and D Q are equal also. And because of the parallels V F, K Q, E D and A Z, it is as A Z to Z V so is E D to D V, and also as A Z to Z T so is K Q to Q T, and by composition as the right angle A Z V is to E D V, so is A Z T to K Q T: and because V Z and Z T are equal, and A Z common to both, therefore A Z V is equal to the angle A Z T, and E D V to K Q T, in which because the perpendiculars Kδ and Eφ  are equal, T Q and D V are equal, and now if D V and T Q be both added to D T the right line V T shall be equal to D Q, but D Q is equal to E K and therefore also V T and E K are equal, as was to be proved.</p>
                      <p>
                         <hi>And now if this unequal sided Cone be cut through the bisected line</hi> E K, <hi>the figure made on that plane by such section shall be an Ellipsis one of whose umbilique points shall fall in the Axis of the Cone.</hi>
                      </p>
                      <p>For V T being equal to E K, and E K being bisected in X, the right line X O in the circle V O T shall be the conjugate diameter in the El<g ref="char:EOLhyphen"/>lipsis E K, because it is perpendicular to the line E K in the point X, and reacheth to the extremitie of the plain V O T, and it is also a mean pro<g ref="char:EOLhyphen"/>portionall
 <pb n="70" facs="tcp:60115:43"/>
 between V X and X T, because it cuts the line V T at right an<g ref="char:EOLhyphen"/>gles in the point X. And therefore the square of X O is equal to the rect<g ref="char:EOLhyphen"/>angle V X T more by the square of Z X but the rectangle V X T more by the square of Z X shall be equal to the square of Z V, and the square of Z V shall be equal to the square of E X, because Z V and E X are equal, and therefore the squares of X O and Z X, shall be equal to the square of E X, but E X is the greatest semidiameter, X O the lesser, and the square of Z X or M X the difference between the squares of E X and X O, and therefore M X shall be the distance of the umbilique point from the center X, and M the umbilique which by construction is placed in the <hi>Axis</hi> of the Cone A B C, as was to be proved.</p>
-                     <figure/>
+                     <p>And that we may now see how the aforesaid affections of the planets are represented in this figure, let us suppose the Ellipsis following to be exactly made according to these directions. Let X be the centor, M the, umbilique point agreeing with the Axis of the Cone and center of the El<g ref="char:EOLhyphen"/>lipsis, whose plane parallel to the plane of the base is represented by the line F M. The conjugate Diameter let be the right line O X N divi<g ref="char:EOLhyphen"/>ding the Ellipsis into two equal parts at the center X, Z is the center of the circle V Z T, the plane and Diameter of which circle passe by X the center of the Ellipsis, now because the center is Z and the Diameter V T
+<figure/>
+                        <pb n="71" facs="tcp:60115:43"/>
+their V Z and Z T are equal, and the plane passing by the Axis doth in like manner divide all the Diameters of all the other circle<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> E D, F G L Q and P K the which are also parallel to the base of the Cone.</p>
                      <p>And because the center of the Ellipsis at X is distant from the Axis A I, by the quantity of X Z equal to M X, the plane which bisects the Ellipsis by the conjugate Diameter O X N shall not bisect the circles, but shall cut off V X a greater part towards E, and X T a lesser part to<g ref="char:EOLhyphen"/>wards K.</p>
                      <p>Let the equal motion of the planet therefore be about the Axis of the Cone A I, and through all the circles which are intercepted between E D and P K, and let the centers of those circles be in the Axis of the Cone, and upon those centers let the planets be conceived to make equal angles in equal portions of time, but the terme of apparent motion to which it is referred, let be the other umbilique at H, the place of the Sun (if we suppose him according to our new Astronomy to be the center of the World.). Then is the Aphelion or part remotest from the Sun at E, the Perihelion or nearest part at K.</p>
                      <p>And now while the planets describing the Ellipsis shall be equally mo<g ref="char:EOLhyphen"/>ved about the Axis of the Cone, in their equal or middle motions, they shall have gone a quadrant about the Cone, when yet they shall want of a quadrant in the Ellipsis by the quantity of the right line M X, and shall be in the point Y, which point is in the circle F M G, and in the Ellipsis, and the right line M Y which is drawn from the center of the circle F G, is set at right angles, upon the Diameters both of its owne circle F G and of the Ellipsis E K, and consequently the angle F M Y is a right angle, and therefore the planets shall move 90 deg. of middle motion about the axis of the Cone when they come to Y, but in the Ellipsis they shall not move so much by the arch Y O, or the right line M X. That this is the true and naturall Hypothesis may thus appeare, because</p>
@@ -3860,7 +3881,10 @@ is E X to E K, and again, as E V to E ω so is V D to ω ψ, and because E X is 
                      <div n="1" type="problem">
                         <head>Probleme 1.</head>
                         <p>Three points in the circumference of a circle being given, to find a dia<g ref="char:EOLhyphen"/>meter<g ref="char:punc">▪</g> upon which there being perpendiculars let fall from the points given; the segments of the diameter intercepted by these perpendiculars shall be proportional to another proportion given.</p>
-                        <figure/>
+                        <p>In the circle B C D whose center is A, let the points given be B, C, D, and let it be required to find the diameter of that circle upon which per<g ref="char:EOLhyphen"/>pendiculars
+<figure/>
+                           <pb n="78" facs="tcp:60115:47"/>
+being let fall fall from the points B, C, D, the segments of the Diameter shall be proportional to another proportion given: let the pro<g ref="char:EOLhyphen"/>portion of the segments intercepted by the perpendiculars let fall from B and C be required to be as S to R.</p>
                         <p>Let the line C B be cut in E, so as C B may be to E B, as S to R, and let D E, cut the Diameter F G at right angles in H. Then is F G the Diameter sought, upon which seeing the lines B I, C K, D H doe fall perpendicularly, K I shall be to H I as S to R.</p>
                         <p>For the right lines C B are parallel, or not parallel, if they be parallel, C B shall be equal to K I, and E B to H I, and then by construction K I shall be H I, that is C B to E B, in the given proportion as S to R. But if they can meet, let the point of their meeting be at L. Then it shall be as L C to L K, so L E to L H, and so is L B to L I. And then dividing and changing the termes, it shall be as K I to H I, so is C B to E B, or so is S to R as was required.</p>
                         <p>And thus likewise K H and H I, with the arches B C, C D, and B D, being given, we may find the arch B G, and the Diameter F G in the same parts with K H and H I, for the arches C D and D B being given, the subtenses of those arches and angles opposite to them in the triangle B C D shall be given also in the parts of the Diameter F G, and there<g ref="char:EOLhyphen"/>fore the sides E B and D B with the angle E B D being given, the angle E D B or D B M shall be given also, which being deducted from the arch B M D shall leave B M or the double of B G.</p>
@@ -3875,7 +3899,10 @@ is E X to E K, and again, as E V to E ω so is V D to ω ψ, and because E X is 
                         <p>And because E F and D C are pa<g ref="char:EOLhyphen"/>rallel, B D shall cut E F at right an<g ref="char:EOLhyphen"/>gles in the point K, and B K shall be parallel to C I, and therefore D C and K I shall be equal, therefore in the circle B C, the points B and C be<g ref="char:EOLhyphen"/>ing given, there is found the Dia<g ref="char:EOLhyphen"/>meter E F, upon which the perpen<g ref="char:EOLhyphen"/>diculars B K and C I being let fall, the segment K I intercepted by those perpendiculars is equal to C D that is to Z the line given.</p>
                         <p>Thus likewise the summe of the arches, and the summe of the Sines of these arches being given, we may distinguish the arches and the Sines if the center A be between K and I. Or the difference of the arches and the difference of their sines being given, we may distinguish the arches and the sines, if the point K be betweene the center A and the point I.</p>
                         <p>When three places therefore in the apparent motion of the Sun orany other planet, with the intervall of time are given, the middle motion of the planet shall be given also, with the difference between the middle and apparent in those intervalls, and the rest from these.</p>
-                        <figure/>
+                        <p>
+                           <pb n="80" facs="tcp:60115:48"/>
+                           <figure/>
+                        </p>
                         <p>For if the points B C D in the Diagrams of the first probleme be given, to wit, three places in the apparent motion, &amp; the middle motion in the inter<g ref="char:EOLhyphen"/>valls of time B C, C D, the difference between the middle and apparent motion shall be given also; let K I the part of the diameter F G, be the dif<g ref="char:EOLhyphen"/>ference of the middle from the apparent in the intervall B C, and let H I be the difference in the intervall B D.</p>
                         <p>Then in the triangle B C D, the arches B C and C D are known, and therefore the angles at D and B are known also, and by consequence the third angle at C, and from thence the subtense C B, now that we may find the angle E D B, the side C B must be cut in the same pro<g ref="char:EOLhyphen"/>portion as the line K I is cut in H. That so K I may be to H I as C B to E B. And so we shall have E B in the like parts with B D; and the sides E B, B D, with the angle at B, in the triangle B E D being given, the rest shall be given also, and the angle at D being given, we shall have the arches M B and M D.</p>
                         <p>And lastly, F G shall be given in the like parts in which K H, and H I are given. For as the summe of the Sines complement B I and C K, to K I, so is the Diameter F G, to the same diameter in the parts of K E and so the first inequality shall be given, and the diameter from whence it begins.</p>
@@ -4423,9 +4450,39 @@ And in the triangle A G D, the angles being given with the side A D, there is al
                         <label>whose complement is A M B</label>
                         <item>86. 76916</item>
                      </list>
-                     <figure>
-                        <pb n="87" facs="tcp:60115:51"/>
-                     </figure>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>As the sine of M B H</cell>
+                              <cell>2. 05136 <hi>co. ar.</hi>
+                              </cell>
+                              <cell>1. 4461743</cell>
+                           </row>
+                           <row>
+                              <cell>Is to the side M H</cell>
+                              <cell>3590</cell>
+                              <cell>3. 5550944</cell>
+                           </row>
+                           <row>
+                              <cell>So is the Sine of B M H</cell>
+                              <cell>86. 76916</cell>
+                              <cell>9. 9993071</cell>
+                           </row>
+                           <row>
+                              <cell>To the side B H</cell>
+                              <cell>100132</cell>
+                              <cell>5. 0005758</cell>
+                           </row>
+                           <row>
+                              <cell>The side X H</cell>
+                              <cell>1795</cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                        <figure>
+                           <pb n="87" facs="tcp:60115:51"/>
+                        </figure>
+                     </p>
                      <p>
                         <table>
                            <row>
@@ -4928,7 +4985,54 @@ And in the triangle A G D, the angles being given with the side A D, there is al
                         </table>
                      </p>
                      <p>Half the arch H I L is 87. 97541, whose sine 99938 is the side H L, and therefore,</p>
-                     <figure/>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>As the side H L</cell>
+                              <cell>99938 <hi>co. ar.</hi>
+                              </cell>
+                              <cell>5. 0002727</cell>
+                           </row>
+                           <row>
+                              <cell>Is to Radius, so is K L</cell>
+                              <cell>99019</cell>
+                              <cell>4. 9957185</cell>
+                           </row>
+                           <row>
+                              <cell>To the angle K H L</cell>
+                              <cell>82. 22718</cell>
+                              <cell>9. 9959912</cell>
+                           </row>
+                        </table>
+                        <table>
+                           <row>
+                              <cell>And the angle H L K</cell>
+                              <cell>07. 77282</cell>
+                              <cell>And L F K</cell>
+                              <cell>168. 50353</cell>
+                           </row>
+                           <row>
+                              <cell>And the arch H K</cell>
+                              <cell>15. 54564</cell>
+                              <cell>And L F</cell>
+                              <cell>84. 25176</cell>
+                           </row>
+                           <row>
+                              <cell>The arch H I L <hi>add</hi>
+                              </cell>
+                              <cell>175. 95083</cell>
+                              <cell>The place of the Aphelion at F</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The arch L I H B</cell>
+                              <cell>191. 49647</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                        <figure/>
+                     </p>
                      <p>
                         <pb n="92" facs="tcp:60115:54" rendition="simple:additions"/>This Autumne Equinox was observed <hi>September</hi> the 19th, from the death of <hi>Alexander</hi> 1206 yeares, that is in the yeare of our Lord 882. In the beginning therefore of the yeare of Christ 883, the Aphelion was in <hi>Gemini</hi> 24 d. 25176</p>
                      <list>
@@ -5172,7 +5276,10 @@ the dayes must be increased by an Unite) then adding them alto<g ref="char:EOLhy
                            </table>
                         </p>
                         <p>3 The mean Anomaly being above 180 deg. the Aequation found must be added to the sunsmeane longitude, so have you the Suns true place.</p>
-                        <figure/>
+                        <p>
+                           <pb n="96" facs="tcp:60115:56"/>
+                           <figure/>
+                        </p>
                      </div>
                      <div type="example">
                         <head>Example.</head>
@@ -5798,7 +5905,10 @@ Anomaly which suppose 25 degrees, the side M H 8724 and the side H E <gap reason
                               </gap>8</item>
                         </list>
                         <p>which being numbred from B by C to F in the Triangle F D A we have known A D 5. 13333 the meane inclination of the Moones Orbe. 2. D F 15833 the halfe difference of the least and greatest inclination. 3. With the angle F D A 135. 61412, the complement of the double di<g ref="char:EOLhyphen"/>stance of the Sun and Moon to a whole circle: whence to find the angle F A D the Aequation of the Nodes, by the Doctrine of spherical Triangles say,</p>
-                        <figure/>
+                        <p>
+                           <pb n="106" facs="tcp:60115:61"/>
+                           <figure/>
+                        </p>
                         <p>
                            <table>
                               <row>
@@ -6790,7 +6900,10 @@ be 3 degrees thereof to a quadrant 87 being added to the equated Ano<g ref="char
                         </gap>9. 22793 or the halfe sum of the angles M E H and M H E <hi>viz.</hi> halfe the anomaly 69. 61396.</p>
                      <p>2. The side M E 1908396 To finde the Angle M E H.</p>
                      <p>3. The side M H 110290 To finde the Angle M E H.</p>
-                     <figure/>
+                     <p>
+                        <pb n="117" facs="tcp:60115:66"/>
+                        <figure/>
+                     </p>
                      <p>
                         <table>
                            <row>
@@ -6979,9 +7092,59 @@ be 3 degrees thereof to a quadrant 87 being added to the equated Ano<g ref="char
                               </table>
                            </p>
                            <p>The distance of <hi>Saturne</hi> in his orbite from the Sun being given with the inclination of his orbite from the eccliptique, the distance corrected by curtation may thus be found.</p>
-                           <figure>
-                              <pb n="119" facs="tcp:60115:67"/>
-                           </figure>
+                           <p>
+                              <table>
+                                 <row>
+                                    <cell>As AL</cell>
+                                    <cell>913876 <hi>co. ar.</hi>
+                                    </cell>
+                                    <cell>4. 0391124</cell>
+                                 </row>
+                                 <row>
+                                    <cell>Is to Radius</cell>
+                                    <cell>90</cell>
+                                    <cell>10. 0000000</cell>
+                                 </row>
+                                 <row>
+                                    <cell>So is LX</cell>
+                                    <cell>37491</cell>
+                                    <cell>4. 5739<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>36</cell>
+                                 </row>
+                                 <row>
+                                    <cell>To the tang. of LA<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>
+                                    </cell>
+                                    <cell>2. 35121</cell>
+                                    <cell>8. 6130460</cell>
+                                 </row>
+                                 <row>
+                                    <cell>As Radius</cell>
+                                    <cell> </cell>
+                                    <cell> </cell>
+                                 </row>
+                                 <row>
+                                    <cell>To AL</cell>
+                                    <cell>913876</cell>
+                                    <cell>5. 9608876</cell>
+                                 </row>
+                                 <row>
+                                    <cell>So cosine of LAX</cell>
+                                    <cell>2. 35121</cell>
+                                    <cell>9. 9996343</cell>
+                                 </row>
+                                 <row>
+                                    <cell>To AX</cell>
+                                    <cell>913107</cell>
+                                    <cell>5. 9605219</cell>
+                                 </row>
+                              </table>
+                              <figure>
+                                 <pb n="119" facs="tcp:60115:67"/>
+                              </figure>
+                           </p>
                         </div>
                      </div>
                      <div type="part">
@@ -7076,7 +7239,32 @@ be 3 degrees thereof to a quadrant 87 being added to the equated Ano<g ref="char
                      </div>
                      <div type="part">
                         <head>To finde Saturns distance from the Earth.</head>
-                        <figure/>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell>As the sine of AXS</cell>
+                                 <cell>6. 04149 <hi>co. ar.</hi>
+                                 </cell>
+                                 <cell>0. 9777838</cell>
+                              </row>
+                              <row>
+                                 <cell>To the side AS</cell>
+                                 <cell>100895</cell>
+                                 <cell>5. 0038707</cell>
+                              </row>
+                              <row>
+                                 <cell>So the sine of XAS</cell>
+                                 <cell>66. 22476</cell>
+                                 <cell>9. 9614845</cell>
+                              </row>
+                              <row>
+                                 <cell>To the side SX</cell>
+                                 <cell>877281</cell>
+                                 <cell>5. 9431390</cell>
+                              </row>
+                           </table>
+                           <figure/>
+                        </p>
                         <p>
                            <pb n="121" facs="tcp:60115:68"/>
                            <table>
@@ -8988,7 +9176,10 @@ Anomaly of the orbe, and the complement thereof is the Angle NAS, or the halfe, 
                         <hi>CHAP. 18.</hi> Of the Semidiameters of the Sun, Moon, and shadow of the Earth.</head>
                      <p>THe angle of the Suns apparent Semidiameter, in his nearest di<g ref="char:EOLhyphen"/>stance to the Earth, <hi>Bullialdus</hi> hath by observation found to be 16′ 45″, or in Decimall numbers 27917. And by an Eclipse of the Moon, <hi>December</hi> 1638, he found her Semidiameter to be 16′ 54″ or 28167, and the Semidiameter of the Earth; shadow 44′ 9″, or 7 583, at which time (being the time of incidence) her distance from the Earth by his computation was 97908 parts of the Semiaxis of the Elipsis 100. 000. By this and another observation in the same Eclipse, he shew<g ref="char:EOLhyphen"/>eth how to finde her apparent semidiameter, in all the other intervalls. The inferiour limbe of the Moon and the first Starre in the foot of the for<g ref="char:EOLhyphen"/>mer Twin, (whose place then according to <hi>Tycho</hi> was <hi>Gemini</hi> 28. 25′ 17″, or <hi>Gemini</hi> 28. 42138 with South Latitude, 0 d. 58′ or 0. 96667.) being in the same Azimuth, was 8′ or 13333 higher then the Star and the Alti<g ref="char:EOLhyphen"/>tude of the heart of <hi>Hydra</hi> then taken by him at <hi>Paris</hi> was 30 deg. 37′, or 30 d. 61667. From whence the hour was found, 30 h. 40′, or 13 h. 66667 and the houre being given the altitude of the Starre is also given, deg. 56. 42′ 15″, or deg. 56. 70416. The apparent altitude of the center of the Moone was deg. 57 7′ 9″, or deg. 57 11916, but by her latitude and place it should have beene deg. 57 40′ 4″, or deg. 57 66778 and there<g ref="char:EOLhyphen"/>fore her parallax of altitude 32′ 55″, or 54861. The situation of the Moone and Azimuth in which her interiour limbe and the Stars were, being given, her aparent Longitude was almost in <hi>Gemini,</hi> deg. 28 38′ 30″, or <hi>Gemini</hi> deg. 28 64167, her parallax of longitude 18 min. or 30000 and therefore the center of the Moon in her true motion in <hi>Gemini</hi> 28 d. 57 min. <hi>fere.</hi> or in <hi>Gemini</hi> 28 d. 95000, her parallax of Latitude is 19 min. or 31667. to which 21′ or 35007, the difference of the observed latitude of the Moon and Stars, being added the true difference is 50 min. or 83333 min. and thence the Moons Latitude 8 min. or 13333 S.</p>
                      <p>Now then to finde the distance of the Moon from the Earth, in this E<g ref="char:EOLhyphen"/>clipse, the Earths semidiameter being one degree, Let FEC represent the true Horizon, BDE, the vertical at <hi>Paris</hi> E the center of the earth, D the City of <hi>Paris:</hi> the Moons true altitude, AEF, deg. 5766778, the observed altitude ADG, deg. 5711916. The parallacticall angle DAE, deg. 0. 34861. Therefore in the Triangle ADE we have given all the angles, and the finde DE one Semidiameter of the Earth, to finde AE, for which the anolagy is.</p>
-                     <figure/>
+                     <p>
+                        <pb n="137" facs="tcp:60115:76"/>
+                        <figure/>
+                     </p>
                      <p>
                         <table>
                            <row>
@@ -10002,7 +10193,55 @@ Hence to find K G the analogie is.</p>
                         </table>
                      </p>
                      <p>Then in the right angled Triangle H I O right angled at H, we have given the angle of <hi>Saturns South latitude</hi> H O I 1. 50, and the side I O to find H I.</p>
-                     <figure/>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>As Radius</cell>
+                              <cell> </cell>
+                              <cell>10. 0000000</cell>
+                           </row>
+                           <row>
+                              <cell>To the side I O</cell>
+                              <cell>92409</cell>
+                              <cell>4. 9657145</cell>
+                           </row>
+                           <row>
+                              <cell>So is the sine of H O I</cell>
+                              <cell>1. 50</cell>
+                              <cell>8. 4179190</cell>
+                           </row>
+                           <row>
+                              <cell>To the side H I</cell>
+                              <cell>2419</cell>
+                              <cell>3. 3836335</cell>
+                           </row>
+                        </table>
+                        <table>
+                           <head>Hence to find the angle of Latitude at the Sun</head>
+                           <row>
+                              <cell>As the side I D</cell>
+                              <cell>94338 <hi>co. ar.</hi>
+                              </cell>
+                              <cell>5. 0253134</cell>
+                           </row>
+                           <row>
+                              <cell>Is to Radius</cell>
+                              <cell> </cell>
+                              <cell>10. 0000000</cell>
+                           </row>
+                           <row>
+                              <cell>So is the side H I</cell>
+                              <cell>2419</cell>
+                              <cell>3. 3836335</cell>
+                           </row>
+                           <row>
+                              <cell>To the sine of I D H</cell>
+                              <cell>1. 46932</cell>
+                              <cell>8. 4089469</cell>
+                           </row>
+                        </table>
+                        <figure/>
+                     </p>
                      <p>By the third observation in the triangle GMD we have given the angle
 <pb n="148" facs="tcp:60115:82"/>
 M D G 87. 26889 the angle M G D 86. 39833 the side G D 94239 to find M G.</p>
